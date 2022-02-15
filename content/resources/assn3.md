@@ -3,8 +3,13 @@ content_type: resource
 description: Assignment to develop the plan of the upper area of the Shougang (Capital
   Steel Factory) site in as much architectural detail as possible in order to illustrate
   how the design will connect to the different uses and conditions across the site.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-307-beijing-urban-design-studio-summer-2008/7b3a043d270ec523a496387b91468935_assn3.pdf
+file: /media/courses/11-307-beijing-urban-design-studio-summer-2008/7b3a043d270ec523a496387b91468935_assn3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Exercise #3: Form of Selected Areas, Form of Detailed Plan and Overall Master
   Plan'

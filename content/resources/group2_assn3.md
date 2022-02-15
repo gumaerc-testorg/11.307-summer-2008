@@ -5,8 +5,13 @@ description: Example of a completed group project to develop the plan of the upp
   as possible in order to illustrate how the design will connect to the different
   uses and conditions across the site by Sonam Gayleg, Jesse Hunting, Judy Zheng Jia,
   Sarah Neilson, Ashia Penghui Sun, and Jeffery He Zhongyu.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-307-beijing-urban-design-studio-summer-2008/4813ec0f0b03303d33c5173b02805f3c_group2_assn3.pdf
+file: /media/courses/11-307-beijing-urban-design-studio-summer-2008/4813ec0f0b03303d33c5173b02805f3c_group2_assn3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: Group 2 Assignment 3
 uid: 4813ec0f-0b03-303d-33c5-173b02805f3c
