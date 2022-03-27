@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 6a77762e-ff6f-95c9-91a2-c0191efb0a1c
 resourcetype: Document
 title: Group 2 Assignment 1
 uid: e751023a-da34-6e77-ba41-2d145f3fafea

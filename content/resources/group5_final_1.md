@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 6a77762e-ff6f-95c9-91a2-c0191efb0a1c
 resourcetype: Document
 title: Group 5 Final Part 1
 uid: eeaebd38-1eb5-1487-1c82-f4404b356658

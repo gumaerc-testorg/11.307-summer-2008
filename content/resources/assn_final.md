@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 01b4d9a0-b3e8-e0f0-e459-1d4356f5f329
 resourcetype: Document
 title: 'Final Assignment: Presentation: Putting it All Together'
 uid: 02cea9c4-a712-6b0e-3b74-dad1424c43b1

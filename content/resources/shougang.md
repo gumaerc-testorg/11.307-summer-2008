@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: b7486055-ed13-0d86-6886-1c2107a0609b
 resourcetype: Document
 title: Introductory Slides
 uid: 1f06585d-9b62-3aef-1daf-a8b4f96b5f9b

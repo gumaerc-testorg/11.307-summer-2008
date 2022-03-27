@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 01b4d9a0-b3e8-e0f0-e459-1d4356f5f329
 resourcetype: Document
 title: 'Assignment #2: Attitude, Overall and Framework Plan'
 uid: 38c1fffd-246e-05f2-91eb-0bdca62e8f68
