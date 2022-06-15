@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the site photos shown to students before the start
+  of the studio.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Image Gallery
