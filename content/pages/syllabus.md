@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides an overview of the course, information
+  on course meeting times, and introductory lecture slides.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: b7486055-ed13-0d86-6886-1c2107a0609b
 ---
@@ -21,4 +25,4 @@ Professors Dennis Frenchman and Jan Wampler will lead the studio, which will inv
 Introductory Slides
 -------------------
 
-The following presentation describes the Shougang site and looks back at previous Beijing Studios. ([PDF - 1.5 MB]({{< baseurl >}}/resources/shougang))
+The following presentation describes the Shougang site and looks back at previous Beijing Studios. ({{% resource_link 1f06585d-9b62-3aef-1daf-a8b4f96b5f9b "PDF - 1.5 MB" %}})
