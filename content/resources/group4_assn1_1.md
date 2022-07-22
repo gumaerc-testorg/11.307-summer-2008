@@ -7,6 +7,7 @@ file: /courses/11-307-beijing-urban-design-studio-summer-2008/ee3b9859233fd14160
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Group 4  Assignment 1 Part 1
 uid: ee3b9859-233f-d141-60d7-db53b23a8442
 ---
 Example of a completed group project on observing and understanding the Shougang (Capital Steel Factory) site by Keith Case, Marissa Grace Desmond, Kristina Katich, Zhang Rouxi, and Ma Xiaoying.
-

@@ -7,6 +7,7 @@ file: /courses/11-307-beijing-urban-design-studio-summer-2008/83306890be7ca13cbf
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Group 5 Final Part 2
 uid: 83306890-be7c-a13c-bf05-96580c710916
 ---
 Example of a completed final project on an urban design and development plan for the Shougang (Capital Steel Factory) site by Sandra Frem, Deborah Morris, Pamela Ritchot, Sara Zeng, and Colin Zhao.
-

@@ -7,6 +7,7 @@ file: /courses/11-307-beijing-urban-design-studio-summer-2008/6e03598eeae2b420c0
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Group 6  Assignment 1
 uid: 6e03598e-eae2-b420-c0e9-aecdc8207cee
 ---
 Example of a completed group project to on observing and understanding the Shougang (Capital Steel Factory) site by Eric Gonzalez, Jae Kyung Kim, Yu Qi, Jennifer Tran, and Xu Xu.
-

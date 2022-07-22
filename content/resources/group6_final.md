@@ -7,6 +7,7 @@ file: /courses/11-307-beijing-urban-design-studio-summer-2008/121fae69e4116a8185
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Group 6 Final
 uid: 121fae69-e411-6a81-8569-96429d928d1f
 ---
 Example of a completed final project on an urban design and development plan for the Shougang (Capital Steel Factory) site by Eric Gonzalez, Jae Kyung Kim, Yu Qi, Jennifer Tran, and Xu Xu.
-

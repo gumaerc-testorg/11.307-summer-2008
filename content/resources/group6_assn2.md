@@ -7,6 +7,7 @@ file: /courses/11-307-beijing-urban-design-studio-summer-2008/41356bd582fb3851de
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Group 6 Assignment 2
 uid: 41356bd5-82fb-3851-deaf-98e37ecac0ec
 ---
 Example of a completed group project to explore different approaches to the future of the Capital Steel Industrial District by Eric Gonzalez, Jae Kyung Kim, Yu Qi, Jennifer Tran, and Xu Xu.
-
