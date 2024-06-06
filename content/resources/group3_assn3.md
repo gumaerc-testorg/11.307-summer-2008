@@ -6,6 +6,7 @@ description: Example of a completed group project to develop the plan of the upp
   uses and conditions across the site by Victor Eskinazi, Ian Kaminski-Coughlin, Ye
   Ming, and Ninad Pandit.
 file: /courses/11-307-beijing-urban-design-studio-summer-2008/03ef9869c766c2efc30948a29721d43a_group3_assn3.pdf
+file_size: 9826790
 file_type: application/pdf
 learning_resource_types:
 - Projects

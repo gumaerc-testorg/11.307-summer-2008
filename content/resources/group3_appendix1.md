@@ -4,6 +4,7 @@ description: Example of a completed group project on observing and understanding
   Shougang (Capital Steel Factory) site by Victor Eskinazi, Ian Kaminski-Coughlin,
   Ye Ming, and Ninad Pandit.
 file: /courses/11-307-beijing-urban-design-studio-summer-2008/372e51f7b395569bef4afcce0167597d_group3_appendix1.pdf
+file_size: 999065
 file_type: application/pdf
 learning_resource_types:
 - Projects

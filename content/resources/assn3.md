@@ -4,6 +4,7 @@ description: Assignment to develop the plan of the upper area of the Shougang (C
   Steel Factory) site in as much architectural detail as possible in order to illustrate
   how the design will connect to the different uses and conditions across the site.
 file: /courses/11-307-beijing-urban-design-studio-summer-2008/7b3a043d270ec523a496387b91468935_assn3.pdf
+file_size: 89317
 file_type: application/pdf
 learning_resource_types:
 - Assignments
