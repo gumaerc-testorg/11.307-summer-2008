@@ -4,6 +4,7 @@ description: Example of a completed final project on an urban design and develop
   plan for the Shougang (Capital Steel Factory) site by Sonam Gayleg, Jesse Hunting,
   Judy Zheng Jia, Sarah Neilson, Ashia Penghui Sun, and Jeffery He Zhongyu.
 file: /courses/11-307-beijing-urban-design-studio-summer-2008/f9c1fc4ee29e25c0b6d8a23696e56d84_group2_final.pdf
+file_size: 8873268
 file_type: application/pdf
 learning_resource_types:
 - Projects

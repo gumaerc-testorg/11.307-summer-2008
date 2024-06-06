@@ -4,6 +4,7 @@ description: Example of a completed final project on an urban design and develop
   plan for the Shougang (Capital Steel Factory) site by Victor Eskinazi, Ian Kaminski-Coughlin,
   Ye Ming, and Ninad Pandit.
 file: /courses/11-307-beijing-urban-design-studio-summer-2008/5a498a1c836667eac70172c99b9a51cd_group3_final_2.pdf
+file_size: 5592533
 file_type: application/pdf
 learning_resource_types:
 - Projects
