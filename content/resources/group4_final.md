@@ -4,6 +4,7 @@ description: Example of a completed final project on an urban design and develop
   plan for the Shougang (Capital Steel Factory) site by Keith Case, Marissa Grace
   Desmond, Kristina Katich, Zhang Rouxi, and Ma Xiaoying.
 file: /courses/11-307-beijing-urban-design-studio-summer-2008/1b0f3553ed70ca14f281740675d02544_group4_final.pdf
+file_size: 9085228
 file_type: application/pdf
 learning_resource_types:
 - Projects

@@ -6,6 +6,7 @@ description: Example of a completed group project to develop the plan of the upp
   uses and conditions across the site by Claire Abrahamse, Josh Fiala, Christine Outram,
   Zhai Wensi, and Li Ye.
 file: /courses/11-307-beijing-urban-design-studio-summer-2008/83237f27f5400af88cc44802b97a3fec_group1_assn3.pdf
+file_size: 2890594
 file_type: application/pdf
 learning_resource_types:
 - Projects

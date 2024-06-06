@@ -2,6 +2,7 @@
 content_type: resource
 description: Introductory presentation on the Shougang site and previous Beijing Studios.
 file: /courses/11-307-beijing-urban-design-studio-summer-2008/1f06585d9b623aef1dafa8b4f96b5f9b_shougang.pdf
+file_size: 1554757
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

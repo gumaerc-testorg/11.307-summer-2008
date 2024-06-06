@@ -4,6 +4,7 @@ description: Example of a completed group project to explore different approache
   to the future of the Capital Steel Industrial District by Keith Case, Marissa Grace
   Desmond, Kristina Katich, Zhang Rouxi, and Ma Xiaoying.
 file: /courses/11-307-beijing-urban-design-studio-summer-2008/1d1c5e83932911cb9d474c079fcd70c2_group4_assn2.pdf
+file_size: 3140270
 file_type: application/pdf
 learning_resource_types:
 - Projects

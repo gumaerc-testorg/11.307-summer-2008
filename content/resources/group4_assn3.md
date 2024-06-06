@@ -6,6 +6,7 @@ description: Example of a completed group project develop the plan of the upper 
   and conditions across the site by Keith Case, Marissa Grace Desmond, Kristina Katich,
   Zhang Rouxi, and Ma Xiaoying.
 file: /courses/11-307-beijing-urban-design-studio-summer-2008/964d893f88cf36c4491a1326c3f9f2e7_group4_assn3.pdf
+file_size: 9189539
 file_type: application/pdf
 learning_resource_types:
 - Projects

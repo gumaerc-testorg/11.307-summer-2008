@@ -4,6 +4,7 @@ description: Example of a completed final project on an urban design and develop
   plan for the Shougang (Capital Steel Factory) site by Claire Abrahamse, Josh Fiala,
   Christine Outram, Zhai Wensi, and Li Ye.
 file: /courses/11-307-beijing-urban-design-studio-summer-2008/703c35143e0d3b58e1dbdd34fedf50e0_group1_finaltext.pdf
+file_size: 145243
 file_type: application/pdf
 learning_resource_types:
 - Projects
