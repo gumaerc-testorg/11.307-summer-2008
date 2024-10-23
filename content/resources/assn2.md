@@ -2,7 +2,7 @@
 content_type: resource
 description: Assignment to explore different approaches to the future of the Capital
   Steel Industrial District.
-file: /courses/11-307-beijing-urban-design-studio-summer-2008/38c1fffd246e05f291eb0bdca62e8f68_assn2.pdf
+file: /ol-ocw-studio-app/courses/11-307-beijing-urban-design-studio-summer-2008/38c1fffd246e05f291eb0bdca62e8f68_assn2.pdf
 file_size: 91190
 file_type: application/pdf
 learning_resource_types:
