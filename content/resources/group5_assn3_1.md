@@ -5,7 +5,7 @@ description: Example of a completed group project to develop the plan of the upp
   as possible in order to illustrate how the design will connect to the different
   uses and conditions across the site by Sandra Frem, Deborah Morris, Pamela Ritchot,
   Sara Zeng, and Colin Zhao.
-file: /ol-ocw-studio-app/courses/11-307-beijing-urban-design-studio-summer-2008/cad2650c07fab59a75b017db7c00a641_group5_assn3_1.pdf
+file: /courses/11-307-beijing-urban-design-studio-summer-2008/cad2650c07fab59a75b017db7c00a641_group5_assn3_1.pdf
 file_size: 940510
 file_type: application/pdf
 learning_resource_types:
