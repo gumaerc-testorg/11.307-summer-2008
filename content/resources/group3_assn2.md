@@ -3,7 +3,7 @@ content_type: resource
 description: Example of a completed group project to explore different approaches
   to the future of the Capital Steel Industrial District by Victor Eskinazi, Ian Kaminski-Coughlin,
   Ye Ming, and Ninad Pandit.
-file: /ol-ocw-studio-app/courses/11-307-beijing-urban-design-studio-summer-2008/453178a87463adfdbe9801205d6cc742_group3_assn2.pdf
+file: /courses/11-307-beijing-urban-design-studio-summer-2008/453178a87463adfdbe9801205d6cc742_group3_assn2.pdf
 file_size: 2913207
 file_type: application/pdf
 learning_resource_types:

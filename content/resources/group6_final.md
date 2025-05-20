@@ -3,7 +3,7 @@ content_type: resource
 description: Example of a completed final project on an urban design and development
   plan for the Shougang (Capital Steel Factory) site by Eric Gonzalez, Jae Kyung Kim,
   Yu Qi, Jennifer Tran, and Xu Xu.
-file: /ol-ocw-studio-app/courses/11-307-beijing-urban-design-studio-summer-2008/121fae69e4116a81856996429d928d1f_group6_final.pdf
+file: /courses/11-307-beijing-urban-design-studio-summer-2008/121fae69e4116a81856996429d928d1f_group6_final.pdf
 file_size: 6189750
 file_type: application/pdf
 learning_resource_types:
