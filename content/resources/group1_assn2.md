@@ -3,7 +3,7 @@ content_type: resource
 description: Example of a completed group project to explore different approaches
   to the future of the Capital Steel Industrial District by Claire Abrahamse, Josh
   Fiala, Christine Outram, Zhai Wensi, and Li Ye.
-file: /courses/11-307-beijing-urban-design-studio-summer-2008/be9aa89cbb937b2b45f2c45ec1439a09_group1_assn2.pdf
+file: /ol-ocw-studio-app/courses/11-307-beijing-urban-design-studio-summer-2008/be9aa89cbb937b2b45f2c45ec1439a09_group1_assn2.pdf
 file_size: 4236488
 file_type: application/pdf
 learning_resource_types:

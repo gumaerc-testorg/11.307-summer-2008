@@ -2,7 +2,7 @@
 content_type: resource
 description: Assignment on observing and understanding the Shougang (Capital Steel
   Factory) site.
-file: /courses/11-307-beijing-urban-design-studio-summer-2008/13ff6469e765a1b338aeb82777b2a6bf_assn1.pdf
+file: /ol-ocw-studio-app/courses/11-307-beijing-urban-design-studio-summer-2008/13ff6469e765a1b338aeb82777b2a6bf_assn1.pdf
 file_size: 86495
 file_type: application/pdf
 learning_resource_types:
