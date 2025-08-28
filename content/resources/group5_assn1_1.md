@@ -3,7 +3,7 @@ content_type: resource
 description: Example of a completed group project on observing and understanding the
   Shougang (Capital Steel Factory) site by Sandra Frem, Deborah Morris, Pamela Ritchot,
   Sara Zeng, and Colin Zhao.
-file: /courses/11-307-beijing-urban-design-studio-summer-2008/c00591fa54d1c5cff247b869b3658a08_group5_assn1_1.pdf
+file: /ol-ocw-studio-app/courses/11-307-beijing-urban-design-studio-summer-2008/c00591fa54d1c5cff247b869b3658a08_group5_assn1_1.pdf
 file_size: 8720925
 file_type: application/pdf
 learning_resource_types:
