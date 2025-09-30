@@ -77,7 +77,7 @@ Part 8: Brownfield Redevelopment
 
 Williams, Katie, and Carol Dair. "A Framework for Assessing the Sustainability of Brownfield Developments." _Journal of Environmental Planning and Management_ 50, no. 1 (2007): 23-40.
 
-[Cleveland's Steelyard Commons](https://steelyard-commons.com/). Steelyard Commons, a $120 million commercial redevelopment project, is transforming 125 acres of abandoned industrial land into the largest open-air retail center ever to be built in Cuyahoga County in Cleveland, OH.
+{{% resource_link "fdf96d85-2df3-4192-ba29-d190627e5cc0" "Cleveland's Steelyard Commons" %}}. Steelyard Commons, a $120 million commercial redevelopment project, is transforming 125 acres of abandoned industrial land into the largest open-air retail center ever to be built in Cuyahoga County in Cleveland, OH.
 
 Tiesdell, Steven, and David Adams. "Design Matters: Major House Builders and the Design Challenge of Brownfield Development Contexts." _Journal of Urban Design_ 9, no. 1 (2004): 23-45.
 
